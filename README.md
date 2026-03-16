@@ -23,7 +23,7 @@ Environmental data scientist with a background in marine science and ocean bioge
 ## Publications  
 
 **Winners and Losers under Hydroxide-Based Ocean Alkalinity Enhancement in a Tasmanian Plankton Community**  
-[DOI: 10.1111/jpy.70052](https://doi.org/10.1111/jpy.70052)  
+[Access Publication](https://github.com/kiyas-kousoulas/Research_Publication)  
 
 Research paper exploring the impacts of equilibrated and unequilibrated OAE treatments on a coastal Tasmanian plankton community.  
 
@@ -32,7 +32,7 @@ Research paper exploring the impacts of equilibrated and unequilibrated OAE trea
 ## Portfolio Projects  
 
 **Climate Data Portfolio:**  
-[GitHub Repository](https://github.com/kiyas-kousoulas/Climate_Data_Portfolio)  
+[Access Portfolio](https://github.com/kiyas-kousoulas/Climate_Data_Portfolio)  
 
 Projects include:  
 
@@ -55,4 +55,6 @@ Python, R, Pandas, Scikit-learn, SQL, GIS (QGIS & Earth Engine), Data Visualizat
 - Science communication & education  
 - Healthcare: dentistry, orthodontics, and periodontics  
 
-**LinkedIn Profile:** [www.linkedin.com/in/kiyas-kousoulas](https://www.linkedin.com/in/kiyas-kousoulas)  
+[LinkedIn Profile](https://www.linkedin.com/in/kiyas-kousoulas)  
+[Orchid Research Profile](https://orcid.org/0009-0008-0712-3755)  
+
