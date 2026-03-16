@@ -4,7 +4,7 @@ Environmental data scientist with a background in marine science and ocean bioge
 
 ---
 
-## 🎓 Education & Certifications  
+## Education & Certifications  
 
 - **Master of Science in Marine and Antarctic Studies**  
   Research on carbon dioxide removal via ocean alkalinity enhancement and associated ecological impacts.  
@@ -20,7 +20,7 @@ Environmental data scientist with a background in marine science and ocean bioge
 
 ---
 
-## 📄 Publications  
+## Publications  
 
 **Winners and Losers under Hydroxide-Based Ocean Alkalinity Enhancement in a Tasmanian Plankton Community**  
 [DOI: 10.1111/jpy.70052](https://doi.org/10.1111/jpy.70052)  
@@ -29,7 +29,7 @@ Research paper exploring the impacts of equilibrated and unequilibrated OAE trea
 
 ---
 
-## 🖥️ Portfolio Projects  
+## Portfolio Projects  
 
 **Climate Data Portfolio:**  
 [GitHub Repository](https://github.com/kiyas-kousoulas/Climate_Data_Portfolio)  
@@ -44,13 +44,13 @@ Projects include:
 
 ---
 
-## 🛠️ Tools & Skills  
+## Tools & Skills  
 
 Python, R, Pandas, Scikit-learn, SQL, GIS (QGIS & Earth Engine), Data Visualization  
 
 ---
 
-## 📚 Additional Background  
+## Additional Background  
 
 - Science communication & education  
 - Healthcare: dentistry, orthodontics, and periodontics  
