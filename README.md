@@ -1,8 +1,6 @@
-# Hi, I'm Kiyas
+# Hi, I'm Kiyas!
 
-I am a trained marine scientist transitioning into climate and geospatial data science.
-
-My work focuses on environmental data, ocean systems, and climate technology.
+Environmental data scientist with a background in marine science and ocean biogeochemistry. My current work focuses on analyzing climate and oceanographic datasets using Python, machine learning, and geospatial tools.
 
 ## Current Focus
 
