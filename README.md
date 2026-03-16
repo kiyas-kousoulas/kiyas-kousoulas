@@ -26,13 +26,7 @@ Projects include:
 
 ## Tools & Skills
 
-Python
-R
-Pandas  
-Scikit-learn  
-SQL  
-GIS (QGIS & Earth Engine)  
-Data Visualization
+Python, R, Pandas,  Scikit-learn, SQL,  GIS (QGIS & Earth Engine), Data Visualization
 
 ## Background
 
