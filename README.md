@@ -1,33 +1,58 @@
-# Hi, I'm Kiyas!
+# Hi there, I'm Kiyas
 
-Environmental data scientist with a background in marine science and ocean biogeochemistry. My current work focuses on analyzing climate and oceanographic datasets using Python, machine learning, and geospatial tools.
+Environmental data scientist with a background in marine science and ocean biogeochemistry. My current work focuses on analyzing climate and oceanographic datasets using Python, machine learning, and geospatial tools.  
 
-## Current Focus
+---
 
-- Climate data science
-- Machine learning for environmental prediction
-- Geospatial climate analysis
-- Ocean carbon removal research
+## 🎓 Education & Certifications  
 
-## Portfolio Projects
+- **Master of Science in Marine and Antarctic Studies**  
+  Research on carbon dioxide removal via ocean alkalinity enhancement and associated ecological impacts.  
 
-Climate Data Portfolio:
-https://github.com/kiyas-kousoulas/Climate_Data_Portfolio
+- **Bachelor of Science in Integrative Biology**  
+  Minor: Art and Design  
 
-Projects include:
+- **Professional Certifications:**  
+  - IBM Python for Data Science  
+  - IBM Machine Learning with Python  
+  - IBM Databases and SQL for Data Science  
+  - UC Davis Geographic Information Systems (GIS) Specialization  
 
-• Phytoplankton satellite data analysis  
-• Ocean climate dataset integration  
-• Machine learning bloom prediction  
-• GIS ocean mapping  
-• Climate data science capstone
+---
 
-## Tools & Skills
+## 📄 Publications  
 
-Python, R, Pandas,  Scikit-learn, SQL,  GIS (QGIS & Earth Engine), Data Visualization
+**Winners and Losers under Hydroxide-Based Ocean Alkalinity Enhancement in a Tasmanian Plankton Community**  
+[DOI: 10.1111/jpy.70052](https://doi.org/10.1111/jpy.70052)  
 
-## Background
+Research paper exploring the impacts of equilibrated and unequilibrated OAE treatments on a coastal Tasmanian plankton community.  
 
-M.S. Marine and Antarctic Science  
-Published ocean carbon dioxide removal and phytoplankton research  
-Science communication & education professional
+---
+
+## 🖥️ Portfolio Projects  
+
+**Climate Data Portfolio:**  
+[GitHub Repository](https://github.com/kiyas-kousoulas/Climate_Data_Portfolio)  
+
+Projects include:  
+
+- 🌊 Phytoplankton satellite data analysis  
+- 🌍 Ocean climate dataset integration  
+- 🤖 Machine learning bloom prediction  
+- 🗺️ GIS ocean mapping  
+- 📊 Climate data science capstone  
+
+---
+
+## 🛠️ Tools & Skills  
+
+Python, R, Pandas, Scikit-learn, SQL, GIS (QGIS & Earth Engine), Data Visualization  
+
+---
+
+## 📚 Additional Background  
+
+- Science communication & education  
+- Healthcare: dentistry, orthodontics, and periodontics  
+
+**LinkedIn Profile:** [www.linkedin.com/in/kiyas-kousoulas](https://www.linkedin.com/in/kiyas-kousoulas)  
