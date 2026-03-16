@@ -27,7 +27,7 @@ Projects include:
 ## Tools & Skills
 
 Python
-
+R
 Pandas  
 Scikit-learn  
 SQL  
