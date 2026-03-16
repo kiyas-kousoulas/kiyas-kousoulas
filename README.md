@@ -1,4 +1,4 @@
-# Hi there, I'm Kiyas
+# Hi there, I'm Kiyas!
 
 Environmental data scientist with a background in marine science and ocean biogeochemistry. My current work focuses on analyzing climate and oceanographic datasets using Python, machine learning, and geospatial tools.  
 
