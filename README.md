@@ -22,8 +22,7 @@ Environmental data scientist with a background in marine science and ocean bioge
 
 ## Publications  
 
-**Winners and Losers under Hydroxide-Based Ocean Alkalinity Enhancement in a Tasmanian Plankton Community**  
-
+**Winners and Losers under Hydroxide-Based Ocean Alkalinity Enhancement in a Tasmanian Plankton Community:**
 Research paper exploring the impacts of equilibrated and unequilibrated OAE treatments on a coastal Tasmanian plankton community.  
 
 [Access Publication](https://github.com/kiyas-kousoulas/Research_Publication)  
