@@ -13,10 +13,7 @@ Environmental data scientist with a background in marine science and ocean bioge
   Minor: Art and Design  
 
 - **Professional Certifications:**  
-  - IBM Python for Data Science  
-  - IBM Machine Learning with Python  
-  - IBM Databases and SQL for Data Science  
-  - UC Davis Geographic Information Systems (GIS) Specialization  
+  
 
 ---
 
