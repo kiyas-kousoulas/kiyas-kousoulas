@@ -12,7 +12,8 @@ Environmental data scientist with a background in marine science and ocean bioge
 - **Bachelor of Science in Integrative Biology**  
   Minor: Art and Design  
 
-- **Professional Certifications:**  
+- **Professional Certifications:**
+  Python for Data Science, AI & Development
   
 
 ---
